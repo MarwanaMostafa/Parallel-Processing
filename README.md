@@ -30,3 +30,5 @@ A Frequency Histogram is a special graph that uses vertical columns to show freq
    and Data Set is : 10-11-12-13-14-21-22-23-24-1-10-11-12-13-14-21-22-23-24-1
    
 ## Output : 
+   
+   ![](Output.png)
