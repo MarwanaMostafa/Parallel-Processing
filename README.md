@@ -25,7 +25,7 @@ A Frequency Histogram is a special graph that uses vertical columns to show freq
   
 ## Example :
 
-   if Number Of Bars =4 , Number Of Points=20 , Number Of Threads=2, Number Of Processes=4
+   if Number Of Bars =4 , Number Of Points=20 , Number Of Threads=4, Number Of Processes=4
   
    and Data Set is : 10-11-12-13-14-21-22-23-24-1-10-11-12-13-14-21-22-23-24-1
    
